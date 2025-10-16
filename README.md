@@ -11,7 +11,7 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 ### 1. Crea tu repositorio privado en GitHub
 1. Inicia sesión en tu cuenta de GitHub y crea un repositorio privado llamado **`practicas-ISE`**.
 2. Dentro de tu repositorio, lleva un registro de tu progreso en las prácticas de la asignatura.
-3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `orestibl`.
+3. Invita al profesor como colaborador a tu repositorio privado para que pueda revisarlo. El usuario del profesor en GitHub es: `crleon87`.
 
 ### 2. Crea un fichero con los resultados de la lección  
 1. En tu repositorio llamado **`practicas-ISE`**, crea un nuevo fichero llamado `<practica-leccion>-resultados.md` (por ejemplo `P1-L0-resultados.md` para la lección 0 de la práctica 1). Para ello:
@@ -22,7 +22,7 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 6. Desplázate hasta el final de la página y escribe un mensaje de confirmación en el campo **Commit changes**. Ejemplo: "Agrego resultados de lección 0 de la práctica 1 en mi repositorio".
 
 ### 3. Haz un **Fork** del repositorio del profesor
-1. Ve a la página del repositorio del profesor: `https://github.com/orestibl/bitacoras-ISE-25-26`.
+1. Ve a la página del repositorio del profesor: `https://github.com/crleon87/bitacoras-ISE-25-26`.
 2. Haz clic en el botón **Fork** en la esquina superior derecha. Esto creará una copia del repositorio en tu propia cuenta de GitHub.
 
 ### 4. Edita el archivo `<SUBGRUPO>/<practica-leccion>.md` desde la web
@@ -60,5 +60,5 @@ Asegúrate de SINCRONIZAR tu copia (fork) del repositorio del profesor JUSTO inm
 
 ## Contacto
 
-Si tienes alguna duda sobre el proceso, no dudes en ponerte en contacto con el profesor a través del correo electrónico (oresti@ugr.es) o en las horas de tutoría.
+Si tienes alguna duda sobre el proceso, no dudes en ponerte en contacto con el profesor a través del correo electrónico (@ugr.es) o en las horas de tutoría.
 
