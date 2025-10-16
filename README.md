@@ -22,7 +22,7 @@ Sigue los pasos a continuación para añadir tu bitácora a este repositorio uti
 6. Desplázate hasta el final de la página y escribe un mensaje de confirmación en el campo **Commit changes**. Ejemplo: "Agrego resultados de lección 0 de la práctica 1 en mi repositorio".
 
 ### 3. Haz un **Fork** del repositorio del profesor
-1. Ve a la página del repositorio del profesor: `[https://github.com/crleon87/bitacoras-ISE-25-26](https://github.com/crleon87/bitacoras-ISE-25-26/)`.
+1. Ve a la página del repositorio del profesor: [https://github.com/crleon87/bitacoras-ISE-25-26](https://github.com/crleon87/bitacoras-ISE-25-26/).
 2. Haz clic en el botón **Fork** en la esquina superior derecha. Esto creará una copia del repositorio en tu propia cuenta de GitHub.
 
 ### 4. Edita el archivo `<SUBGRUPO>/<practica-leccion>.md` desde la web
